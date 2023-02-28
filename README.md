@@ -12,7 +12,7 @@ This is a simple Full Stack CRUD (Create, Read, Update, Delete) Application buil
 
 1. Clone this repository: git clone <https://github.com/Naveen2k22/nextjs-fullstack-crud-app>
 
-2. Change directory: `cd nextjs-mongodb-crud`
+2. Change directory: `cd nextjs-fullstack-crud-app`
 
 3. Install dependencies: `npm install`
 

@@ -88,6 +88,7 @@ const EmployeeForm = (props) => {
                 onChange={handleChange}
                 required
               >
+                <option value="" >Select Qualification</option>
                 <option value="BE" disabled={isReadOnly && employee.qualification !== 'BE'}>BE</option>
                 <option value="BCom" disabled={isReadOnly && employee.qualification !== 'BCom'}>BCom</option>
                 <option value="BSc" disabled={isReadOnly && employee.qualification !== 'BSc'}>BSc</option>
