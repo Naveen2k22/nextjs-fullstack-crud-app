@@ -1,0 +1,10 @@
+.actionWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.listTable {
+    width: 80vw;
+}

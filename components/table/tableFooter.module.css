@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.inactive {
+    color: black;
+}
+
+.active {
+    color: black;
+    background-color: var(--color-standard);
+    cursor: auto;
+}
+
+.buttonFooter {
+    border-radius: 0.25rem;
+}
